@@ -25,4 +25,4 @@ apt-get install cmake<br />
 cd ColAndreas-master<br />
 cmake -B build<br />
 cd build<br />
-make<br />
+make<br /> 
