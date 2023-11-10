@@ -22,7 +22,7 @@ Go to the [releases page](https://github.com/Pottus/ColAndreas/releases) and gra
 ## Debian build notes<br />
 apt-get install libbullet-dev<br />
 apt-get install cmake<br />
-cd ColAndreas-master/<br />
+cd ColAndreas-master<br />
 cmake -B build<br />
 cd build<br />
 make<br />
